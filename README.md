@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rwyattwalker
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning php and mySQL.
-- 📫 How to reach me - rwyattwalker@gmail.com
+- 👀 I’m interested in Front End Application Development.
+- 🌱 I’m currently learning web3.js and Solidity.
+- 💼 Check out my portfolio - https://wyattwalker.me 
