@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @rwyattwalker
-- 👀 I’m interested in Front End Application Development.
-- 🌱 I’m currently learning web3.js and Solidity.
+- 👀 I’m interested in all things software development.
 - 💼 Check out my portfolio - https://wyattwalker.me 
